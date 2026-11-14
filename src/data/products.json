@@ -1,0 +1,1918 @@
+[
+  {
+    "id": "fare-game-chicken-and-beef",
+    "name": "Fare Game Chicken & Beef",
+    "url": "https://bigcountryraw.ca/fare-game-chicken-and-beef-2-lb/",
+    "species": [
+      "cat"
+    ],
+    "line": "fare-game",
+    "complete": true,
+    "kcalPer100g": 146,
+    "package": {
+      "unitGrams": 226.8,
+      "label": "½ lb portion"
+    },
+    "ingredients": "Chicken, chicken bone, beef heart, beef liver, beef spleen, beef kidney, calcium carbonate, marine algae powder, cod liver oil, zinc glycinate, vitamin E supplement, manganese glycinate, potassium iodide, thiamine mononitrate.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 146
+      },
+      "Crude protein (g)": {
+        "value": 18
+      },
+      "Crude fat (g)": {
+        "value": 8
+      },
+      "Carbohydrate (g)": {
+        "value": 0.5
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 71
+      },
+      "Calcium (g)": {
+        "value": 0.91
+      },
+      "Phosphorus (g)": {
+        "value": 0.65
+      },
+      "Potassium (g)": {
+        "value": 0.26
+      },
+      "Sodium (g)": {
+        "value": 0.1
+      },
+      "Magnesium (mg)": {
+        "value": 35
+      },
+      "Iron (mg)": {
+        "value": 4.39
+      },
+      "Iodine (mcg)": {
+        "value": 109.2
+      },
+      "Copper (mg)": {
+        "value": 0.86
+      },
+      "Manganese (mg)": {
+        "value": 0.33
+      },
+      "Selenium (mcg)": {
+        "value": 22.58
+      },
+      "Zinc (mg)": {
+        "value": 4.8
+      },
+      "Vitamin A (IU)": {
+        "value": 492.6
+      },
+      "Thiamine (mg)": {
+        "value": 0.26
+      },
+      "Riboflavin (mg)": {
+        "value": 0.51
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.3
+      },
+      "Niacin (mg)": {
+        "value": 4.41
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.23
+      },
+      "Cobalamine (mcg)": {
+        "value": 7.27
+      },
+      "Folate (mcg)": {
+        "value": 35
+      },
+      "Vitamin D (mcg)": {
+        "value": 0.86
+      },
+      "Vitamin E (mg)": {
+        "value": 2.41
+      },
+      "Linoleic Acid (g)": {
+        "value": 0.85
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.2
+      },
+      "EPA+DHA (g)": {
+        "value": 0.06
+      },
+      "Arginine (g)": {
+        "value": 0.75
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.02
+      },
+      "Histidine (g)": {
+        "value": 0.25
+      },
+      "Isoleucine (g)": {
+        "value": 0.46
+      },
+      "Leucine (g)": {
+        "value": 0.93
+      },
+      "Lysine (g)": {
+        "value": 0.73
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 0.75
+      },
+      "Taurine (g)": {
+        "value": 0.04
+      },
+      "Threonine (g)": {
+        "value": 0.39
+      },
+      "Valine (g)": {
+        "value": 0.59
+      }
+    }
+  },
+  {
+    "id": "fare-game-chicken-salmon-and-beef",
+    "name": "Fare Game Chicken, Salmon & Beef",
+    "url": "https://bigcountryraw.ca/fare-game-chicken-salmon-and-beef-2-lb/",
+    "species": [
+      "cat"
+    ],
+    "line": "fare-game",
+    "complete": true,
+    "kcalPer100g": 153,
+    "package": {
+      "unitGrams": 226.8,
+      "label": "½ lb portion"
+    },
+    "ingredients": "Chicken, chicken bone, salmon, beef heart, beef liver, beef spleen, beef kidney, wheat grass, barley grass, calcium carbonate, zinc glycinate, vitamin E supplement, manganese glycinate, potassium iodide, thiamine mononitrate.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 153
+      },
+      "Crude protein (g)": {
+        "value": 17
+      },
+      "Crude fat (g)": {
+        "value": 9
+      },
+      "Carbohydrate (g)": {
+        "value": 1
+      },
+      "Fiber (g)": {
+        "value": 0.5
+      },
+      "Moisture (g)": {
+        "value": 71
+      },
+      "Calcium (g)": {
+        "value": 0.77
+      },
+      "Phosphorus (g)": {
+        "value": 0.57
+      },
+      "Potassium (g)": {
+        "value": 0.25
+      },
+      "Sodium (g)": {
+        "value": 0.08
+      },
+      "Magnesium (mg)": {
+        "value": 33.74
+      },
+      "Iron (mg)": {
+        "value": 4.89
+      },
+      "Iodine (mcg)": {
+        "value": 73.53
+      },
+      "Copper (mg)": {
+        "value": 0.83
+      },
+      "Manganese (mg)": {
+        "value": 0.34
+      },
+      "Selenium (mcg)": {
+        "value": 24.89
+      },
+      "Zinc (mg)": {
+        "value": 4.13
+      },
+      "Vitamin A (IU)": {
+        "value": 417.58
+      },
+      "Thiamine (mg)": {
+        "value": 0.35
+      },
+      "Riboflavin (mg)": {
+        "value": 0.45
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.27
+      },
+      "Niacin (mg)": {
+        "value": 4.84
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.3
+      },
+      "Cobalamine (mcg)": {
+        "value": 6.99
+      },
+      "Folate (mcg)": {
+        "value": 30.21
+      },
+      "Vitamin D (mcg)": {
+        "value": 2
+      },
+      "Vitamin E (mg)": {
+        "value": 2.21
+      },
+      "Linoleic Acid (g)": {
+        "value": 0.89
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.2
+      },
+      "EPA+DHA (g)": {
+        "value": 0.16
+      },
+      "Arginine (g)": {
+        "value": 1.03
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.83
+      },
+      "Histidine (g)": {
+        "value": 0.35
+      },
+      "Isoleucine (g)": {
+        "value": 0.64
+      },
+      "Leucine (g)": {
+        "value": 1.26
+      },
+      "Lysine (g)": {
+        "value": 1.08
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1.1
+      },
+      "Taurine (g)": {
+        "value": 0.04
+      },
+      "Threonine (g)": {
+        "value": 0.6
+      },
+      "Valine (g)": {
+        "value": 0.81
+      }
+    }
+  },
+  {
+    "id": "fare-game-kangaroo-and-lamb",
+    "name": "Fare Game Kangaroo & Lamb",
+    "url": "https://bigcountryraw.ca/fare-game-kangaroo-and-lamb-2-lb/",
+    "species": [
+      "cat"
+    ],
+    "line": "fare-game",
+    "complete": true,
+    "kcalPer100g": 146,
+    "package": {
+      "unitGrams": 226.8,
+      "label": "½ lb portion"
+    },
+    "ingredients": "Kangaroo, lamb bone, lamb liver, calcium carbonate, cod liver oil, marine algae powder, zinc glycinate, vitamin E supplement, manganese glycinate, potassium iodide, thiamine mononitrate.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 146
+      },
+      "Crude protein (g)": {
+        "value": 22
+      },
+      "Crude fat (g)": {
+        "value": 6
+      },
+      "Carbohydrate (g)": {
+        "value": 1
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 69
+      },
+      "Calcium (g)": {
+        "value": 0.51
+      },
+      "Phosphorus (g)": {
+        "value": 0.41
+      },
+      "Potassium (g)": {
+        "value": 0.29
+      },
+      "Sodium (g)": {
+        "value": 0.08
+      },
+      "Magnesium (mg)": {
+        "value": 35
+      },
+      "Iron (mg)": {
+        "value": 3.3
+      },
+      "Iodine (mcg)": {
+        "value": 109.38
+      },
+      "Copper (mg)": {
+        "value": 0.69
+      },
+      "Manganese (mg)": {
+        "value": 0.32
+      },
+      "Selenium (mcg)": {
+        "value": 16.79
+      },
+      "Zinc (mg)": {
+        "value": 5.55
+      },
+      "Vitamin A (IU)": {
+        "value": 807.71
+      },
+      "Thiamine (mg)": {
+        "value": 0.25
+      },
+      "Riboflavin (mg)": {
+        "value": 0.74
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.25
+      },
+      "Niacin (mg)": {
+        "value": 6.29
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.25
+      },
+      "Cobalamine (mcg)": {
+        "value": 11.79
+      },
+      "Folate (mcg)": {
+        "value": 35
+      },
+      "Vitamin D (mcg)": {
+        "value": 0.99
+      },
+      "Vitamin E (mg)": {
+        "value": 2.4
+      },
+      "Linoleic Acid (g)": {
+        "value": 0.2
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.12
+      },
+      "EPA+DHA (g)": {
+        "value": 0.06
+      },
+      "Arginine (g)": {
+        "value": 1.16
+      },
+      "Methionine + Cystine (g)": {
+        "value": 3.43
+      },
+      "Histidine (g)": {
+        "value": 0.48
+      },
+      "Isoleucine (g)": {
+        "value": 0.71
+      },
+      "Leucine (g)": {
+        "value": 1.51
+      },
+      "Lysine (g)": {
+        "value": 1.36
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1.65
+      },
+      "Taurine (g)": {
+        "value": 0.04
+      },
+      "Threonine (g)": {
+        "value": 0.83
+      },
+      "Valine (g)": {
+        "value": 0.78
+      }
+    }
+  },
+  {
+    "id": "fare-game-quail-duck-and-lamb",
+    "name": "Fare Game Quail, Duck & Lamb",
+    "url": "https://bigcountryraw.ca/fare-game-quail-duck-and-lamb-recipe-2-lb/",
+    "species": [
+      "cat"
+    ],
+    "line": "fare-game",
+    "complete": true,
+    "kcalPer100g": 180,
+    "package": {
+      "unitGrams": 226.8,
+      "label": "½ lb portion"
+    },
+    "ingredients": "Duck, duck bone, lamb heart, lamb liver, quail, quail bone, wheat grass, barley grass, calcium carbonate, marine algae powder, cod liver oil, zinc glycinate, vitamin E supplement, manganese glycinate, potassium iodide, thiamine mononitrate.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 180
+      },
+      "Crude protein (g)": {
+        "value": 16
+      },
+      "Crude fat (g)": {
+        "value": 12
+      },
+      "Carbohydrate (g)": {
+        "value": 2
+      },
+      "Fiber (g)": {
+        "value": 0.2
+      },
+      "Moisture (g)": {
+        "value": 68
+      },
+      "Calcium (g)": {
+        "value": 0.89
+      },
+      "Phosphorus (g)": {
+        "value": 0.7
+      },
+      "Potassium (g)": {
+        "value": 0.26
+      },
+      "Sodium (g)": {
+        "value": 0.09
+      },
+      "Magnesium (mg)": {
+        "value": 35
+      },
+      "Iron (mg)": {
+        "value": 3.79
+      },
+      "Iodine (mcg)": {
+        "value": 113.8
+      },
+      "Copper (mg)": {
+        "value": 0.94
+      },
+      "Manganese (mg)": {
+        "value": 0.5
+      },
+      "Selenium (mcg)": {
+        "value": 27.05
+      },
+      "Zinc (mg)": {
+        "value": 4.99
+      },
+      "Vitamin A (IU)": {
+        "value": 915.8
+      },
+      "Thiamine (mg)": {
+        "value": 0.73
+      },
+      "Riboflavin (mg)": {
+        "value": 0.59
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.16
+      },
+      "Niacin (mg)": {
+        "value": 2.92
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.17
+      },
+      "Cobalamine (mcg)": {
+        "value": 11.89
+      },
+      "Folate (mcg)": {
+        "value": 37.54
+      },
+      "Vitamin D (mcg)": {
+        "value": 0.75
+      },
+      "Vitamin E (mg)": {
+        "value": 2.64
+      },
+      "Linoleic Acid (g)": {
+        "value": 0.92
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.23
+      },
+      "EPA+DHA (g)": {
+        "value": 0.06
+      },
+      "Arginine (g)": {
+        "value": 0.76
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.29
+      },
+      "Histidine (g)": {
+        "value": 0.27
+      },
+      "Isoleucine (g)": {
+        "value": 0.33
+      },
+      "Leucine (g)": {
+        "value": 0.91
+      },
+      "Lysine (g)": {
+        "value": 0.7
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1
+      },
+      "Taurine (g)": {
+        "value": 0.07
+      },
+      "Threonine (g)": {
+        "value": 0.46
+      },
+      "Valine (g)": {
+        "value": 0.48
+      }
+    }
+  },
+  {
+    "id": "fare-game-rabbit-and-pork",
+    "name": "Fare Game Rabbit & Pork",
+    "url": "https://bigcountryraw.ca/fare-game-rabbit-and-pork-2-lb/",
+    "species": [
+      "cat"
+    ],
+    "line": "fare-game",
+    "complete": true,
+    "kcalPer100g": 180,
+    "package": {
+      "unitGrams": 226.8,
+      "label": "½ lb portion"
+    },
+    "ingredients": "Rabbit, pork, pork heart, pork liver, pork spleen, pork kidney, wheat grass, barley grass, calcium carbonate, marine algae powder, cod liver oil, zinc glycinate, vitamin E supplement, manganese glycinate, potassium iodide, thiamine mononitrate.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 180
+      },
+      "Crude protein (g)": {
+        "value": 17
+      },
+      "Crude fat (g)": {
+        "value": 12
+      },
+      "Carbohydrate (g)": {
+        "value": 1
+      },
+      "Fiber (g)": {
+        "value": 0.5
+      },
+      "Moisture (g)": {
+        "value": 67
+      },
+      "Calcium (g)": {
+        "value": 0.72
+      },
+      "Phosphorus (g)": {
+        "value": 0.54
+      },
+      "Potassium (g)": {
+        "value": 0.29
+      },
+      "Sodium (g)": {
+        "value": 0.1
+      },
+      "Magnesium (mg)": {
+        "value": 35
+      },
+      "Iron (mg)": {
+        "value": 7.26
+      },
+      "Iodine (mcg)": {
+        "value": 113.42
+      },
+      "Copper (mg)": {
+        "value": 0.4
+      },
+      "Manganese (mg)": {
+        "value": 0.41
+      },
+      "Selenium (mcg)": {
+        "value": 24.29
+      },
+      "Zinc (mg)": {
+        "value": 5.32
+      },
+      "Vitamin A (IU)": {
+        "value": 883.4
+      },
+      "Thiamine (mg)": {
+        "value": 0.63
+      },
+      "Riboflavin (mg)": {
+        "value": 0.72
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.55
+      },
+      "Niacin (mg)": {
+        "value": 4.35
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.26
+      },
+      "Cobalamine (mcg)": {
+        "value": 4.37
+      },
+      "Folate (mcg)": {
+        "value": 35
+      },
+      "Vitamin D (mcg)": {
+        "value": 0.75
+      },
+      "Vitamin E (mg)": {
+        "value": 2.57
+      },
+      "Linoleic Acid (g)": {
+        "value": 0.83
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.19
+      },
+      "EPA+DHA (g)": {
+        "value": 0.06
+      },
+      "Arginine (g)": {
+        "value": 0.87
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.49
+      },
+      "Histidine (g)": {
+        "value": 0.36
+      },
+      "Isoleucine (g)": {
+        "value": 0.39
+      },
+      "Leucine (g)": {
+        "value": 1.05
+      },
+      "Lysine (g)": {
+        "value": 1.02
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1.04
+      },
+      "Taurine (g)": {
+        "value": 0.05
+      },
+      "Threonine (g)": {
+        "value": 0.53
+      },
+      "Valine (g)": {
+        "value": 0.58
+      }
+    }
+  },
+  {
+    "id": "fare-game-turkey-sardine-and-beef",
+    "name": "Fare Game Turkey, Sardine & Beef",
+    "url": "https://bigcountryraw.ca/fare-game-turkey-sardine-and-beef-2-lb/",
+    "species": [
+      "cat"
+    ],
+    "line": "fare-game",
+    "complete": true,
+    "kcalPer100g": 175,
+    "package": {
+      "unitGrams": 226.8,
+      "label": "½ lb portion"
+    },
+    "ingredients": "Turkey, turkey bone, beef heart, sardine, beef liver, beef spleen, beef kidney, barley grass, wheat grass, calcium carbonate, zinc glycinate, vitamin E supplement, manganese glycinate, potassium iodide, thiamine mononitrate.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 175
+      },
+      "Crude protein (g)": {
+        "value": 18
+      },
+      "Crude fat (g)": {
+        "value": 11
+      },
+      "Carbohydrate (g)": {
+        "value": 1
+      },
+      "Fiber (g)": {
+        "value": 0.5
+      },
+      "Moisture (g)": {
+        "value": 68
+      },
+      "Calcium (g)": {
+        "value": 0.56
+      },
+      "Phosphorus (g)": {
+        "value": 0.39
+      },
+      "Potassium (g)": {
+        "value": 0.23
+      },
+      "Sodium (g)": {
+        "value": 0.1
+      },
+      "Magnesium (mg)": {
+        "value": 35
+      },
+      "Iron (mg)": {
+        "value": 4.87
+      },
+      "Iodine (mcg)": {
+        "value": 108.64
+      },
+      "Copper (mg)": {
+        "value": 0.83
+      },
+      "Manganese (mg)": {
+        "value": 0.37
+      },
+      "Selenium (mcg)": {
+        "value": 21.71
+      },
+      "Zinc (mg)": {
+        "value": 4.54
+      },
+      "Vitamin A (IU)": {
+        "value": 404.16
+      },
+      "Thiamine (mg)": {
+        "value": 0.37
+      },
+      "Riboflavin (mg)": {
+        "value": 0.46
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.04
+      },
+      "Niacin (mg)": {
+        "value": 2.87
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.18
+      },
+      "Cobalamine (mcg)": {
+        "value": 5.26
+      },
+      "Folate (mcg)": {
+        "value": 35
+      },
+      "Vitamin D (mcg)": {
+        "value": 0.7
+      },
+      "Vitamin E (mg)": {
+        "value": 2.68
+      },
+      "Linoleic Acid (g)": {
+        "value": 1.92
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.48
+      },
+      "EPA+DHA (g)": {
+        "value": 0.07
+      },
+      "Arginine (g)": {
+        "value": 1.11
+      },
+      "Methionine + Cystine (g)": {
+        "value": 2
+      },
+      "Histidine (g)": {
+        "value": 0.38
+      },
+      "Isoleucine (g)": {
+        "value": 0.58
+      },
+      "Leucine (g)": {
+        "value": 1.31
+      },
+      "Lysine (g)": {
+        "value": 1.16
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1.3
+      },
+      "Taurine (g)": {
+        "value": 0.1
+      },
+      "Threonine (g)": {
+        "value": 0.65
+      },
+      "Valine (g)": {
+        "value": 0.79
+      }
+    }
+  },
+  {
+    "id": "pure-beef",
+    "name": "Pure Beef",
+    "url": "https://bigcountryraw.ca/pure-beef-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 178,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Beef meat, beef heart, beef liver, beef spleen, beef kidney.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 178
+      },
+      "Crude protein (g)": {
+        "value": 17
+      },
+      "Crude fat (g)": {
+        "value": 12
+      },
+      "Carbohydrate (g)": {
+        "value": 0.5
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 69
+      },
+      "Calcium (g)": {
+        "value": 0.16
+      },
+      "Phosphorus (g)": {
+        "value": 0.26
+      },
+      "Potassium (g)": {
+        "value": 0.27
+      },
+      "Sodium (g)": {
+        "value": 0.08
+      },
+      "Magnesium (mg)": {
+        "value": 20.96
+      },
+      "Iron (mg)": {
+        "value": 3.48
+      },
+      "Iodine (mcg)": {
+        "value": 0
+      },
+      "Copper (mg)": {
+        "value": 0.95
+      },
+      "Manganese (mg)": {
+        "value": 0.04
+      },
+      "Selenium (mcg)": {
+        "value": 18.53
+      },
+      "Zinc (mg)": {
+        "value": 2.74
+      },
+      "Vitamin A (IU)": {
+        "value": 378.45
+      },
+      "Thiamine (mg)": {
+        "value": 0.14
+      },
+      "Riboflavin (mg)": {
+        "value": 0.68
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.55
+      },
+      "Niacin (mg)": {
+        "value": 5.95
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.31
+      },
+      "Cobalamine (mcg)": {
+        "value": 9.23
+      },
+      "Folate (mcg)": {
+        "value": 25.48
+      },
+      "Vitamin D (mcg)": null,
+      "Vitamin E (mg)": {
+        "value": 0.18
+      },
+      "Linoleic Acid (g)": {
+        "value": 0.41
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.03
+      },
+      "EPA+DHA (g)": null,
+      "Arginine (g)": {
+        "value": 1
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.64
+      },
+      "Histidine (g)": {
+        "value": 0.36
+      },
+      "Isoleucine (g)": {
+        "value": 0.61
+      },
+      "Leucine (g)": {
+        "value": 1.37
+      },
+      "Lysine (g)": {
+        "value": 1.01
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1.25
+      },
+      "Taurine (g)": {
+        "value": 0.04
+      },
+      "Threonine (g)": {
+        "value": 0.62
+      },
+      "Valine (g)": {
+        "value": 0.85
+      }
+    }
+  },
+  {
+    "id": "pure-chicken",
+    "name": "Pure Chicken",
+    "url": "https://bigcountryraw.ca/pure-chicken-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 162,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Chicken, chicken bone, chicken liver.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 162
+      },
+      "Crude protein (g)": {
+        "value": 18
+      },
+      "Crude fat (g)": {
+        "value": 10
+      },
+      "Carbohydrate (g)": {
+        "value": 0.1
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 70
+      },
+      "Calcium (g)": {
+        "value": 0.65
+      },
+      "Phosphorus (g)": {
+        "value": 0.45
+      },
+      "Potassium (g)": {
+        "value": 0.21
+      },
+      "Sodium (g)": {
+        "value": 0.05
+      },
+      "Magnesium (mg)": {
+        "value": 12.7
+      },
+      "Iron (mg)": {
+        "value": 1.2
+      },
+      "Iodine (mcg)": null,
+      "Copper (mg)": {
+        "value": 0.06
+      },
+      "Manganese (mg)": {
+        "value": 0.03
+      },
+      "Selenium (mcg)": {
+        "value": 10.2
+      },
+      "Zinc (mg)": {
+        "value": 2.2
+      },
+      "Vitamin A (IU)": {
+        "value": 605.5
+      },
+      "Thiamine (mg)": {
+        "value": 0.06
+      },
+      "Riboflavin (mg)": {
+        "value": 0.19
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1
+      },
+      "Niacin (mg)": {
+        "value": 4
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.24
+      },
+      "Cobalamine (mcg)": {
+        "value": 3.5
+      },
+      "Folate (mcg)": {
+        "value": 40.2
+      },
+      "Vitamin D (mcg)": {
+        "value": 0.31
+      },
+      "Vitamin E (mg)": {
+        "value": 0.16
+      },
+      "Linoleic Acid (g)": {
+        "value": 1.6
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.12
+      },
+      "Eicosapentaenoic Acid (g)": null,
+      "Docosahexaenoic Acid (g)": null,
+      "Arachidonic Acid (g)": {
+        "value": 0.06
+      },
+      "Oleic Acid (g)": {
+        "value": 4
+      },
+      "Arginine (g)": {
+        "value": 0.79
+      },
+      "Methionine + Cystine (g)": {
+        "value": 0.87
+      },
+      "Histidine (g)": {
+        "value": 0.24
+      },
+      "Isoleucine (g)": {
+        "value": 0.49
+      },
+      "Leucine (g)": {
+        "value": 0.88
+      },
+      "Lysine (g)": {
+        "value": 0.75
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 0.6
+      },
+      "Taurine (g)": {
+        "value": 0.05
+      },
+      "Threonine (g)": {
+        "value": 0.34
+      },
+      "Valine (g)": {
+        "value": 0.57
+      }
+    }
+  },
+  {
+    "id": "pure-duck",
+    "name": "Pure Duck",
+    "url": "https://bigcountryraw.ca/pure-duck-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 180,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Duck (meat and bone), duck liver",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 180
+      },
+      "Crude protein (g)": {
+        "value": 15
+      },
+      "Crude fat (g)": {
+        "value": 13
+      },
+      "Carbohydrate (g)": {
+        "value": 1.7
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 68
+      },
+      "Calcium (g)": {
+        "value": 0.8
+      },
+      "Phosphorus (g)": {
+        "value": 0.6
+      },
+      "Potassium (g)": {
+        "value": 0.12
+      },
+      "Sodium (g)": {
+        "value": 0.02
+      },
+      "Magnesium (mg)": {
+        "value": 16.3
+      },
+      "Iron (mg)": {
+        "value": 2.5
+      },
+      "Iodine (mcg)": null,
+      "Copper (mg)": {
+        "value": 0.32
+      },
+      "Manganese (mg)": {
+        "value": 0.07
+      },
+      "Selenium (mcg)": {
+        "value": 13.3
+      },
+      "Zinc (mg)": {
+        "value": 1.6
+      },
+      "Vitamin A (IU)": {
+        "value": 1396.3
+      },
+      "Thiamine (mg)": {
+        "value": 0.06
+      },
+      "Riboflavin (mg)": {
+        "value": 0.09
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 0.48
+      },
+      "Niacin (mg)": {
+        "value": 1.2
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.07
+      },
+      "Cobalamine (mcg)": {
+        "value": 2
+      },
+      "Folate (mcg)": {
+        "value": 29
+      },
+      "Vitamin D (mcg)": {
+        "value": 1.8
+      },
+      "Vitamin E (mg)": {
+        "value": 0.69
+      },
+      "Linoleic Acid (g)": {
+        "value": 1.5
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.11
+      },
+      "Eicosapentaenoic Acid (g)": null,
+      "Docosahexaenoic Acid (g)": null,
+      "Arachidonic Acid (g)": null,
+      "Oleic Acid (g)": {
+        "value": 6.2
+      },
+      "Arginine (g)": {
+        "value": 0.55
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1
+      },
+      "Histidine (g)": {
+        "value": 0.18
+      },
+      "Isoleucine (g)": {
+        "value": 0.22
+      },
+      "Leucine (g)": {
+        "value": 0.58
+      },
+      "Lysine (g)": {
+        "value": 0.48
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 0.67
+      },
+      "Taurine (g)": {
+        "value": 0.02
+      },
+      "Threonine (g)": {
+        "value": 0.3
+      },
+      "Valine (g)": {
+        "value": 0.3
+      }
+    }
+  },
+  {
+    "id": "pure-kangaroo",
+    "name": "Pure Kangaroo",
+    "url": "https://bigcountryraw.ca/pure-kangaroo-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 127,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Kangaroo, ground kangaroo bone, dehydrated kangaroo liver.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 127
+      },
+      "Crude protein (g)": {
+        "value": 22
+      },
+      "Crude fat (g)": {
+        "value": 4
+      },
+      "Carbohydrate (g)": {
+        "value": 0.8
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 71
+      },
+      "Calcium (g)": {
+        "value": 0.2
+      },
+      "Phosphorus (g)": {
+        "value": 0.3
+      },
+      "Potassium (g)": {
+        "value": 0.3
+      },
+      "Sodium (g)": {
+        "value": 0.1
+      },
+      "Magnesium (mg)": {
+        "value": 23.3
+      },
+      "Iron (mg)": {
+        "value": 3.1
+      },
+      "Iodine (mcg)": null,
+      "Copper (mg)": {
+        "value": 0.2
+      },
+      "Manganese (mg)": {
+        "value": 0
+      },
+      "Selenium (mcg)": {
+        "value": 12.1
+      },
+      "Zinc (mg)": {
+        "value": 3.1
+      },
+      "Vitamin A (IU)": {
+        "value": 2461.2
+      },
+      "Thiamine (mg)": {
+        "value": 0.1
+      },
+      "Riboflavin (mg)": {
+        "value": 0.5
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 0.9
+      },
+      "Niacin (mg)": {
+        "value": 6.5
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.2
+      },
+      "Cobalamine (mcg)": {
+        "value": 4.2
+      },
+      "Folate (mcg)": {
+        "value": 14
+      },
+      "Vitamin D (mcg)": null,
+      "Vitamin E (mg)": {
+        "value": 0.2
+      },
+      "Linoleic Acid (g)": {
+        "value": 0.1
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.1
+      },
+      "EPA+DHA (g)": null,
+      "Arginine (g)": {
+        "value": 1.1
+      },
+      "Methionine + Cystine (g)": {
+        "value": 3.3
+      },
+      "Histidine (g)": {
+        "value": 0.5
+      },
+      "Isoleucine (g)": {
+        "value": 0.7
+      },
+      "Leucine (g)": {
+        "value": 1.4
+      },
+      "Lysine (g)": {
+        "value": 1.3
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1.5
+      },
+      "Taurine (g)": {
+        "value": 0
+      },
+      "Threonine (g)": {
+        "value": 0.8
+      },
+      "Valine (g)": {
+        "value": 0.7
+      }
+    }
+  },
+  {
+    "id": "pure-lamb",
+    "name": "Pure Lamb",
+    "url": "https://bigcountryraw.ca/pure-lamb-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 147,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Lamb, lamb bone, lamb liver, lamb spleen, lamb kidney.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 147
+      },
+      "Crude protein (g)": {
+        "value": 16
+      },
+      "Crude fat (g)": {
+        "value": 9
+      },
+      "Carbohydrate (g)": {
+        "value": 0.5
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 72
+      },
+      "Calcium (g)": {
+        "value": 0.31
+      },
+      "Phosphorus (g)": {
+        "value": 0.32
+      },
+      "Potassium (g)": {
+        "value": 0.3
+      },
+      "Sodium (g)": {
+        "value": 0.1
+      },
+      "Magnesium (mg)": {
+        "value": 27.13
+      },
+      "Iron (mg)": {
+        "value": 6.86
+      },
+      "Iodine (mcg)": {
+        "value": 0
+      },
+      "Copper (mg)": {
+        "value": 0.83
+      },
+      "Manganese (mg)": {
+        "value": 0.64
+      },
+      "Selenium (mcg)": {
+        "value": 29.37
+      },
+      "Zinc (mg)": {
+        "value": 2.96
+      },
+      "Vitamin A (IU)": {
+        "value": 571.5
+      },
+      "Thiamine (mg)": {
+        "value": 0.27
+      },
+      "Riboflavin (mg)": {
+        "value": 0.96
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 2.22
+      },
+      "Niacin (mg)": {
+        "value": 5.87
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.33
+      },
+      "Cobalamine (mcg)": {
+        "value": 14.05
+      },
+      "Folate (mcg)": {
+        "value": 19.33
+      },
+      "Vitamin D (mcg)": null,
+      "Vitamin E (mg)": null,
+      "Linoleic Acid (g)": {
+        "value": 0.27
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.15
+      },
+      "EPA+DHA (g)": null,
+      "Arginine (g)": {
+        "value": 0.47
+      },
+      "Methionine + Cystine (g)": {
+        "value": 0.69
+      },
+      "Histidine (g)": {
+        "value": 0.18
+      },
+      "Isoleucine (g)": {
+        "value": 0.24
+      },
+      "Leucine (g)": {
+        "value": 0.65
+      },
+      "Lysine (g)": {
+        "value": 0.45
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 0.68
+      },
+      "Taurine (g)": {
+        "value": 0.07
+      },
+      "Threonine (g)": {
+        "value": 0.31
+      },
+      "Valine (g)": {
+        "value": 0.34
+      }
+    }
+  },
+  {
+    "id": "pure-pork",
+    "name": "Pure Pork",
+    "url": "https://bigcountryraw.ca/pure-pork-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 220,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Pork, pork bone, pork liver, pork spleen, pork kidney.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 220
+      },
+      "Crude protein (g)": {
+        "value": 16
+      },
+      "Crude fat (g)": {
+        "value": 17
+      },
+      "Carbohydrate (g)": {
+        "value": 0.5
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 65
+      },
+      "Calcium (g)": {
+        "value": 0.34
+      },
+      "Phosphorus (g)": {
+        "value": 0.31
+      },
+      "Potassium (g)": {
+        "value": 0.26
+      },
+      "Sodium (g)": {
+        "value": 0.05
+      },
+      "Magnesium (mg)": {
+        "value": 14.76
+      },
+      "Iron (mg)": {
+        "value": 4.96
+      },
+      "Iodine (mcg)": {
+        "value": 0
+      },
+      "Copper (mg)": {
+        "value": 0.17
+      },
+      "Manganese (mg)": {
+        "value": 0.03
+      },
+      "Selenium (mcg)": {
+        "value": 30.43
+      },
+      "Zinc (mg)": {
+        "value": 2.34
+      },
+      "Vitamin A (IU)": {
+        "value": 195.92
+      },
+      "Thiamine (mg)": {
+        "value": 0.57
+      },
+      "Riboflavin (mg)": {
+        "value": 0.48
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 1.13
+      },
+      "Niacin (mg)": {
+        "value": 4.04
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.33
+      },
+      "Cobalamine (mcg)": {
+        "value": 2.15
+      },
+      "Folate (mcg)": {
+        "value": 10.16
+      },
+      "Vitamin D (mcg)": null,
+      "Vitamin E (mg)": {
+        "value": 0.11
+      },
+      "Linoleic Acid (g)": {
+        "value": 1.58
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.12
+      },
+      "EPA+DHA (g)": null,
+      "Arginine (g)": {
+        "value": 1.01
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.38
+      },
+      "Histidine (g)": {
+        "value": 0.46
+      },
+      "Isoleucine (g)": {
+        "value": 0.58
+      },
+      "Leucine (g)": {
+        "value": 1.32
+      },
+      "Lysine (g)": {
+        "value": 1.23
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 1.33
+      },
+      "Taurine (g)": {
+        "value": 0.07
+      },
+      "Threonine (g)": {
+        "value": 0.68
+      },
+      "Valine (g)": {
+        "value": 0.72
+      }
+    }
+  },
+  {
+    "id": "pure-rabbit",
+    "name": "Pure Rabbit",
+    "url": "https://bigcountryraw.ca/pure-rabbit-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 143,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Rabbit, rabbit bone, rabbit liver.",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 143
+      },
+      "Crude protein (g)": {
+        "value": 17
+      },
+      "Crude fat (g)": {
+        "value": 8
+      },
+      "Carbohydrate (g)": {
+        "value": 0.8
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 71
+      },
+      "Calcium (g)": {
+        "value": 1.46
+      },
+      "Phosphorus (g)": {
+        "value": 0.98
+      },
+      "Potassium (g)": {
+        "value": 0.24
+      },
+      "Sodium (g)": {
+        "value": 0.06
+      },
+      "Magnesium (mg)": {
+        "value": 41.47
+      },
+      "Iron (mg)": {
+        "value": 3.4
+      },
+      "Iodine (mcg)": {
+        "value": 0
+      },
+      "Copper (mg)": {
+        "value": 0.12
+      },
+      "Manganese (mg)": {
+        "value": 0.03
+      },
+      "Selenium (mcg)": {
+        "value": 7.9
+      },
+      "Zinc (mg)": {
+        "value": 2.23
+      },
+      "Vitamin A (IU)": {
+        "value": 925.9
+      },
+      "Thiamine (mg)": {
+        "value": 0.03
+      },
+      "Riboflavin (mg)": {
+        "value": 0.18
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 0.6
+      },
+      "Niacin (mg)": {
+        "value": 1.1
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.24
+      },
+      "Cobalamine (mcg)": {
+        "value": 4.8
+      },
+      "Folate (mcg)": {
+        "value": 15.3
+      },
+      "Vitamin D (mcg)": null,
+      "Vitamin E (mg)": {
+        "value": 0.32
+      },
+      "Linoleic Acid (g)": {
+        "value": 2.09
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.29
+      },
+      "EPA+DHA (g)": null,
+      "Arginine (g)": {
+        "value": 0.63
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.29
+      },
+      "Histidine (g)": {
+        "value": 0.23
+      },
+      "Isoleucine (g)": {
+        "value": 0.21
+      },
+      "Leucine (g)": {
+        "value": 0.71
+      },
+      "Lysine (g)": {
+        "value": 0.72
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 0.69
+      },
+      "Taurine (g)": {
+        "value": 0.03
+      },
+      "Threonine (g)": {
+        "value": 0.35
+      },
+      "Valine (g)": {
+        "value": 0.39
+      }
+    }
+  },
+  {
+    "id": "pure-turkey",
+    "name": "Pure Turkey",
+    "url": "https://bigcountryraw.ca/pure-turkey-carton-4-lb/",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "line": "pure",
+    "complete": false,
+    "kcalPer100g": 182,
+    "package": {
+      "unitGrams": 453.6,
+      "label": "1 lb pack"
+    },
+    "ingredients": "Turkey (meat and bone), Turkey Liver",
+    "nutrients": {
+      "Calories (kcal)": {
+        "value": 182
+      },
+      "Crude protein (g)": {
+        "value": 20
+      },
+      "Crude fat (g)": {
+        "value": 11
+      },
+      "Carbohydrate (g)": {
+        "value": 0.5
+      },
+      "Fiber (g)": {
+        "value": 0
+      },
+      "Moisture (g)": {
+        "value": 67
+      },
+      "Calcium (g)": {
+        "value": 0.71
+      },
+      "Phosphorus (g)": {
+        "value": 0.5
+      },
+      "Potassium (g)": {
+        "value": 0.21
+      },
+      "Sodium (g)": {
+        "value": 0.11
+      },
+      "Magnesium (mg)": {
+        "value": 23.2
+      },
+      "Iron (mg)": {
+        "value": 2.32
+      },
+      "Iodine (mcg)": {
+        "value": 0
+      },
+      "Copper (mg)": {
+        "value": 0.1
+      },
+      "Manganese (mg)": {
+        "value": 0.03
+      },
+      "Selenium (mcg)": {
+        "value": 25.19
+      },
+      "Zinc (mg)": {
+        "value": 2.62
+      },
+      "Vitamin A (IU)": {
+        "value": 753.3
+      },
+      "Thiamine (mg)": {
+        "value": 0.07
+      },
+      "Riboflavin (mg)": {
+        "value": 0.26
+      },
+      "Pantothenic Acid (mg)": {
+        "value": 0.76
+      },
+      "Niacin (mg)": {
+        "value": 2.11
+      },
+      "Pyridoxine (mg)": {
+        "value": 0.18
+      },
+      "Cobalamine (mcg)": {
+        "value": 2.22
+      },
+      "Folate (mcg)": {
+        "value": 68.96
+      },
+      "Vitamin D (mcg)": null,
+      "Vitamin E (mg)": {
+        "value": 0.05
+      },
+      "Linoleic Acid (g)": {
+        "value": 1.68
+      },
+      "Alpha-linolenic Acid (g)": {
+        "value": 0.15
+      },
+      "EPA+DHA (g)": null,
+      "Arginine (g)": {
+        "value": 0.8
+      },
+      "Methionine + Cystine (g)": {
+        "value": 1.4
+      },
+      "Histidine (g)": {
+        "value": 0.26
+      },
+      "Isoleucine (g)": {
+        "value": 0.3
+      },
+      "Leucine (g)": {
+        "value": 0.85
+      },
+      "Lysine (g)": {
+        "value": 0.83
+      },
+      "Phenylalanine + Tyrosine (g)": {
+        "value": 0.9
+      },
+      "Taurine (g)": {
+        "value": 0.13
+      },
+      "Threonine (g)": {
+        "value": 0.43
+      },
+      "Valine (g)": {
+        "value": 0.45
+      }
+    }
+  }
+]
